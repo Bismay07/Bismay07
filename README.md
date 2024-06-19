@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about creative ideas and applicatio
 
 ## Skills and Technologies
 
-- Programming Languages: int [] Array = {Python, Java, Dart, WEB-DEV , Assembly Language...} 
+- Programming Languages: string [] Array = {Python, Java, Dart, WEB-DEV , Assembly Language...} 
 - Frameworks and Libraries: List = [Flutter, React JS, HTML, CSS, Jquery , OS, Openai, ...]
 - Tools and Technologies: Tupple = (Eclipse, VS Code, EMU8086, ARM, Android Studio, XCode ...)
 
